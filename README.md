@@ -109,16 +109,19 @@ Multiple chart types for exploring passenger data.
 Dark-themed dashboard with gold and red accents.
 
 Comparative analysis of survival patterns across passenger demographics.
-## 📈 Power BI Dashboard
+## 📊 Power BI Dashboard
 
-An interactive Power BI dashboard was created to present the Titanic analysis in a clear and visual format.
+### Page 1 – Titanic Survival Overview
 
-The dashboard brings together passenger information and survival patterns through visual reports and key metrics.
+<p align="center">
+  <img src="Screenshots/Screenshot%202026-11-24%20001306.png" width="100%" alt="Titanic Dashboard Page 1">
+</p>
 
-**Dashboard Preview:**
+### Page 2 – Beyond the Numbers
 
-
-
+<p align="center">
+  <img src="Screenshots/Screenshot%202026-11-24%20001333.png" width="100%" alt="Titanic Dashboard Page 2">
+</p>
 ## 🛠️ Tools & Technologies
 
 - Python
